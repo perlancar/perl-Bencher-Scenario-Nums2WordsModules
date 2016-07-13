@@ -1,5 +1,12 @@
 Revision history for Bencher-Scenario-Nums2WordsModules
 
+0.002   2016-07-13 (PERLANCAR)
+
+	- No functional changes.
+
+	- [dist] Rebuild to generate charts.
+
+
 0.001   2016-07-12 (PERLANCAR)
 
         - First release.
